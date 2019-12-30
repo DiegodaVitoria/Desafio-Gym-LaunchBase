@@ -1,9 +1,10 @@
 
 
-<h4 align="center">
-   # Desafio-Gym-LaunchBase
-</h4>
-------------------------------------------
+
+# Desafio-Gym-LaunchBase
+
+
+---
 
 <h1 align="center">
     <img alt="Gym" title="#Gym - LauchBase - Rocket Seat" src="gym.png" width="250px" />
