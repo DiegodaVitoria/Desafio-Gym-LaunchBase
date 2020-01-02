@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".gif" width="100%">
+  <img alt="Frontend" src="gym.gif" width="100%">
 </p>
 
 ## Tecnologias
