@@ -7,9 +7,6 @@
 
 Esse projeto esta sendo desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [CSS]()
-- [JS]()
 
 
 ##  Projeto
